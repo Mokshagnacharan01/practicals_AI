@@ -1,2 +1,3 @@
 # practicals_AI
-Cleaning the Room (Robot) 
+practicals from 1 to 12 
+
