@@ -1,2 +1,2 @@
-# practical01_AI
+# practicals_AI
 Cleaning the Room (Robot) 
